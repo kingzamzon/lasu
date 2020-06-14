@@ -1,0 +1,198 @@
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v2.0 20040830//EN" "http://dtd.nlm.nih.gov/publishing/2.0/journalpublishing.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" dtd-version="2.0" xml:lang="EN">
+  <front>    <journal-meta>
+      <journal-title>Journal of Petroleum and Gas Engineering</journal-title>
+      <issn pub-type="epub">2141-2677</issn>      <publisher>
+        <publisher-name>Academic Journals</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.5897/JPGE2019.0320</article-id>
+      <title-group>
+        <article-title><![CDATA[Influence of wavelet phase rotation on post stack model based seismic inversion: A case study of X-field, 
+Niger Delta, Nigeria]]></article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" xlink:type="simple">
+        		        	<name name-style="western">
+	            <surname>Aniefiok</surname>
+            <given-names>Sylvester Akpan</given-names>
+	          </name>	
+        		        	<name name-style="western">
+	            <surname>Daniel</surname>
+            <given-names>N. Obiora</given-names>
+	          </name>	
+        		        	<name name-style="western">
+	            <surname>Francisca</surname>
+            <given-names>N. Okeke</given-names>
+	          </name>	
+        		        	<name name-style="western">
+	            <surname>Johnson</surname>
+            <given-names>C. Ibuot</given-names>
+	          </name>	
+        		        	<name name-style="western">
+	            <surname>Nyakno</surname>
+            <given-names>J. George</given-names>
+	          </name>	
+        	        </contrib>
+      </contrib-group>
+      <author-notes>
+		<corresp id="cor1">* E-mail: <email xlink:type="simple">daniel.obiora@unn.edu.ng</email></corresp>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2020</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+      	<day>31</day>
+        <month>01</month>
+        <year>2020</year>
+      </pub-date>
+      <history>
+      			<date date-type="received">
+			<day>13</day>
+			<month>06</month>
+			<year>2019</year>
+		</date>
+						<date date-type="accepted">
+			<day>11</day>
+			<month>05</month>
+			<year>2020</year>
+		</date>
+			  </history>
+      <volume>11</volume>
+      <issue>1</issue>
+	  	  <fpage>57</fpage>
+	  <lpage>67</lpage>
+      <permissions>
+		<license xlink:type="simple">
+			<license-p>
+			This is an open-access article distributed under the terms of the Creative Commons Attribution License 4.0, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+			</license-p>
+		</license>
+	  </permissions>
+	  <self-uri xlink:href="https://academicjournals.org/journal/JPGE/article-abstract/8B16D9963885">
+		This article is available from https://academicjournals.org/journal/JPGE/article-abstract/8B16D9963885	  </self-uri>
+	  <self-uri xlink:href="https://academicjournals.org/journal/JPGE/article-full-text-pdf/8B16D9963885">
+		The full text article is available as a PDF file from https://academicjournals.org/journal/JPGE/article-full-text-pdf/8B16D9963885	  </self-uri>
+	  
+      <abstract><![CDATA[The effect of wavelet phase rotation on post inversion in X-field Niger Delta has been investigated. This paper demonstrates the influence of wavelet phase employed in model based seismic inversion. It presents the problem associated with variation in wavelet phases employed in post-stack model based seismic inversion which affect the discrimination of litho-fluid contrast from inverted seismic volume. The study was carried out using 3D post stack seismic data and well logs from three (3) exploratory wells in the study area. The data was inverted into acoustic impedance (Pndash;impedance) using five different wavelets with 0, 15, 30, 45 and 60deg; phases for each inversion process. The inverted P-impedance slices result for the different wavelet phases were compared and the effect of each wavelet on the inverted section was deciphered. Small decrease in impedance error was observed for zero degree (0deg;) and minimum (15 to 30deg;) wavelet phase. Alternatively, inverted Pndash;impedance section using 45 and 60deg; wavelets phase depict high error in the impedance and less correlation coefficient with increase in the synthetic error. This study thus recommends zero degree (0deg;) or minimum phase (15 to 30deg;) wavelets for interpretation in the study area as the degree of variation in input wavelet greatly affects the inverted acoustic impedance results.
+
+	Key words: Niger Delta, wavelet, well logs, seismic data, stack inversion]]></abstract>
+    </article-meta>
+  </front>
+      <body/>
+    <back>
+		<ref-list>
+			<title>References</title>
+						<ref id="ref1">
+				<label>1</label>
+				<mixed-citation publication-type="other" xlink:type="simple">
+				<![CDATA[Ajaegwu NE, Odoh BI, Akpunomu EO, Obiadi I, Anakwuba EK (2012). Late Miocene to Early Pliocene Palynostratigraphy and Paleoenvironments of ANE-1 Well, Eastern Niger Delta. Nigeria. Journal of Mining and Geology 48:31-43.]]>
+				</mixed-citation>
+			</ref>
+						<ref id="ref2">
+				<label>2</label>
+				<mixed-citation publication-type="other" xlink:type="simple">
+				<![CDATA[Alaminiokuma GI, Ofuyah WN (2017). Time-lapse Seismic Acquisition in the Niger Delta: Challenges and Successes. Geosciences7:7-19.]]>
+				</mixed-citation>
+			</ref>
+						<ref id="ref3">
+				<label>3</label>
+				<mixed-citation publication-type="other" xlink:type="simple">
+				<![CDATA[Chirag J (2013). Effect of Seismic wavelet phase on post stack inversion. 10th Biennial International Conference  Exposition.]]>
+				</mixed-citation>
+			</ref>
+						<ref id="ref4">
+				<label>4</label>
+				<mixed-citation publication-type="other" xlink:type="simple">
+				<![CDATA[Doust H, Omatsola E (1990). Passive margin basins; Tulsa. American Association of Petroleum Geologists memoir 48:239-248.]]>
+				</mixed-citation>
+			</ref>
+						<ref id="ref5">
+				<label>5</label>
+				<mixed-citation publication-type="other" xlink:type="simple">
+				<![CDATA[Downtown JE (2005). Seismic parameter estimation from AVO inversion. Ph.D Thesis, University of Calgary, Alberta.]]>
+				</mixed-citation>
+			</ref>
+						<ref id="ref6">
+				<label>6</label>
+				<mixed-citation publication-type="other" xlink:type="simple">
+				<![CDATA[Gluck S, Deschizeaux B, Mignot AP, Huguet F (2000). Time-lapse impedance inversion of post-stack seismic data. Expanded abstracts, 70th Annual Meeting SEG, Calgary, 1509-1512.
+					]]>
+				</mixed-citation>
+			</ref>
+						<ref id="ref7">
+				<label>7</label>
+				<mixed-citation publication-type="other" xlink:type="simple">
+				<![CDATA[Latimer RB, Davidson R, Van-Riel P (2000). An interpreters guide to understanding and working with seismic-derived acoustic impedance data. The Leading Edge 19(3):242-256.
+					]]>
+				</mixed-citation>
+			</ref>
+						<ref id="ref8">
+				<label>8</label>
+				<mixed-citation publication-type="other" xlink:type="simple">
+				<![CDATA[Margrave GF, Lawton DC, Stewart RR (1998). Interpreting channel sands with 3c-3d seismic data. The Leading Edge 17:509-513.
+					]]>
+				</mixed-citation>
+			</ref>
+						<ref id="ref9">
+				<label>9</label>
+				<mixed-citation publication-type="other" xlink:type="simple">
+				<![CDATA[Maurya PS, Sarkar P (2016). Comparison of Post-Stack Seismic Inversion Methods: A case study of Blackfoot Field, Canada. International Journal of Scientific and Engineering Research 7:1091-1101.]]>
+				</mixed-citation>
+			</ref>
+						<ref id="ref10">
+				<label>10</label>
+				<mixed-citation publication-type="other" xlink:type="simple">
+				<![CDATA[Michele LW, Ronald RC, Michael EB (1999). The Niger Delta Petroleum System: Niger Delta Province, Nigeria, Cameroun and Equatorial Guinea, Africa. USGS Open files report, pp. 99-118.]]>
+				</mixed-citation>
+			</ref>
+						<ref id="ref11">
+				<label>11</label>
+				<mixed-citation publication-type="other" xlink:type="simple">
+				<![CDATA[Nuhu GO (2009). Geology and mineral resources of Nigeria. Springer Dordrecht, New York.]]>
+				</mixed-citation>
+			</ref>
+						<ref id="ref12">
+				<label>12</label>
+				<mixed-citation publication-type="other" xlink:type="simple">
+				<![CDATA[Oldenziel T (2003). Time lapse seismic within reservoir engineering Ph.D Thesis, Delft University of Technology.]]>
+				</mixed-citation>
+			</ref>
+						<ref id="ref13">
+				<label>13</label>
+				<mixed-citation publication-type="other" xlink:type="simple">
+				<![CDATA[Reijers TJ (1996). Stratigraphy and sedimentation of Niger Delta. Geologos 17:136-158.
+					]]>
+				</mixed-citation>
+			</ref>
+						<ref id="ref14">
+				<label>14</label>
+				<mixed-citation publication-type="other" xlink:type="simple">
+				<![CDATA[Short C, Stauble A (1967). Outline of the geology of Niger Delta. Association of Petroleum Geologist Bulletin 54:761-779.]]>
+				</mixed-citation>
+			</ref>
+						<ref id="ref15">
+				<label>15</label>
+				<mixed-citation publication-type="other" xlink:type="simple">
+				<![CDATA[Van-Riel P (2000). The past, present and future of reservoir characterization. The Leading Edge 19 :878-881.
+					]]>
+				</mixed-citation>
+			</ref>
+						<ref id="ref16">
+				<label>16</label>
+				<mixed-citation publication-type="other" xlink:type="simple">
+				<![CDATA[Veeken PC, Rauch-Davies M (2006). AVO Attribute analysis and seismic reservoir characterization. First Break 24:41-52.
+					]]>
+				</mixed-citation>
+			</ref>
+						<ref id="ref17">
+				<label>17</label>
+				<mixed-citation publication-type="other" xlink:type="simple">
+				<![CDATA[Weber KJ, Daukoru E (1975). Petroleum Geology of the Niger Delta. Tokyo 9th World Petroleum Congress Proceedings 2:209-2011.]]>
+				</mixed-citation>
+			</ref>
+					</ref-list>
+	</back>
+    </article>

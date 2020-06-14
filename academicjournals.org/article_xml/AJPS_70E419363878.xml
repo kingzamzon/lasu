@@ -1,0 +1,303 @@
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v2.0 20040830//EN" "http://dtd.nlm.nih.gov/publishing/2.0/journalpublishing.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" dtd-version="2.0" xml:lang="EN">
+  <front>    <journal-meta>
+      <journal-title>African Journal of Plant Science</journal-title>
+      <issn pub-type="epub">1996-0824</issn>      <publisher>
+        <publisher-name>Academic Journals</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.5897/AJPS2020.1985</article-id>
+      <title-group>
+        <article-title><![CDATA[Seasonal variation and modeling of leaf area growth in Jatropha curcas L. plants: Implication for understanding the species adaptation in the Sahel of Niger]]></article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" xlink:type="simple">
+        		        	<name name-style="western">
+	            <surname>Moussa</surname>
+            <given-names>Massaoudou</given-names>
+	          </name>	
+        		        	<name name-style="western">
+	            <surname>Tougiani</surname>
+            <given-names>Abasse</given-names>
+	          </name>	
+        		        	<name name-style="western">
+	            <surname>Habou</surname>
+            <given-names>Rabiou</given-names>
+	          </name>	
+        		        	<name name-style="western">
+	            <surname>Larwanou</surname>
+            <given-names>Mahamane</given-names>
+	          </name>	
+        	        </contrib>
+      </contrib-group>
+      <author-notes>
+		<corresp id="cor1">* E-mail: <email xlink:type="simple">mmassaoudou13@gmail.com</email></corresp>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2020</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+      	<day>30</day>
+        <month>06</month>
+        <year>2020</year>
+      </pub-date>
+      <history>
+      			<date date-type="received">
+			<day>08</day>
+			<month>03</month>
+			<year>2020</year>
+		</date>
+						<date date-type="accepted">
+			<day>18</day>
+			<month>05</month>
+			<year>2020</year>
+		</date>
+			  </history>
+      <volume>14</volume>
+      <issue>6</issue>
+	  	  <fpage>205</fpage>
+	  <lpage>212</lpage>
+      <permissions>
+		<license xlink:type="simple">
+			<license-p>
+			This is an open-access article distributed under the terms of the Creative Commons Attribution License 4.0, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+			</license-p>
+		</license>
+	  </permissions>
+	  <self-uri xlink:href="https://academicjournals.org/journal/AJPS/article-abstract/70E419363878">
+		This article is available from https://academicjournals.org/journal/AJPS/article-abstract/70E419363878	  </self-uri>
+	  <self-uri xlink:href="https://academicjournals.org/journal/AJPS/article-full-text-pdf/70E419363878">
+		The full text article is available as a PDF file from https://academicjournals.org/journal/AJPS/article-full-text-pdf/70E419363878	  </self-uri>
+	  
+      <abstract><![CDATA[Jatropha curcas is a tree species introduced in Niger as a trial experiment to offset land degradation and for biofuel production. The objective of this study is to contribute to the understanding of this speciesrsquo; potential for adaptation under the edaphic and climatic conditions of Niger through analysis and modeling of the leaf area dynamics. The nondestructive method is used to evaluate the leaf area growth using four provenances and 120 samples of leaves of J. curcas plants. The results show that leaf area is optimal during the wet season of the year with non-significant difference (P gt; 0.05), while during other periods it is significant (P lt; 0.05) between provenances. The logarithmic model is the most accurate, and the models developed have a correlation coefficient between 0.95 and 0.99. The error analysis shows a mean absolute percentage of error between 5.92 and 27.43%, depending on the provenances. The accuracies of the developed models were appreciated, with root mean square of error varying from 0.72 to 2.06 cm2. Contrary to the expectation, for production of J. curcas in Nigerrsquo;s Sahelian climate and soil, it is necessary to ensure additional irrigation water to the plants, especially during the dry period of the year.
+
+	 
+
+	Key words: Exotic species, Jatropha curcas, adaptation, leaf area models, Niger.]]></abstract>
+    </article-meta>
+  </front>
+      <body/>
+    <back>
+		<ref-list>
+			<title>References</title>
+						<ref id="ref1">
+				<label>1</label>
+				<mixed-citation publication-type="other" xlink:type="simple">
+				<![CDATA[Arbonnier M (2009). Arbres, arbustes et lianes des zones sches dAfrique de lOuest. (3me Edi.) Quoe, MNHN.]]>
+				</mixed-citation>
+			</ref>
+						<ref id="ref2">
+				<label>2</label>
+				<mixed-citation publication-type="other" xlink:type="simple">
+				<![CDATA[Athokpam FD, Garkoti SC, Borah N (2013). Periodicity of leaf growth and leaf dry mass changes in the evergreen and deciduous species of Southern Assam, India. Ecological Research 29 (2):153-165 .
+					]]>
+				</mixed-citation>
+			</ref>
+						<ref id="ref3">
+				<label>3</label>
+				<mixed-citation publication-type="other" xlink:type="simple">
+				<![CDATA[Bayen P, Bognounou F, Lykke A M, Oudraogo M Thiombiano A (2016). The use of biomass production and allometric models to estimate carbon sequestration of Jatropha curcas L. plantations in western Burkina Faso. Environment Development Sustainability 18(1):143-156.
+					]]>
+				</mixed-citation>
+			</ref>
+						<ref id="ref4">
+				<label>4</label>
+				<mixed-citation publication-type="other" xlink:type="simple">
+				<![CDATA[Bazongo P, Traore K, Traore O, Bilgo A, Yelemou B, Sanon KB, Hien V, Nacro BH (2015). Caractrisation des systmes de production de Jatropha dans les exploitations agricoles de la zone Ouest du Burkina Faso. International Journal of Biology and Chemistry Sciences 9(5):2432-2445.
+					]]>
+				</mixed-citation>
+			</ref>
+						<ref id="ref5">
+				<label>5</label>
+				<mixed-citation publication-type="other" xlink:type="simple">
+				<![CDATA[Berchmans HJ, Hirata S (2008). Biodiesel production from crude Jatropha curcas L. seed oil with a high content of free fatty acids. Bioresource Technology 99:1716-1721.
+					]]>
+				</mixed-citation>
+			</ref>
+						<ref id="ref6">
+				<label>6</label>
+				<mixed-citation publication-type="other" xlink:type="simple">
+				<![CDATA[Brodribb TJ, Holbrook NM, Gutirrez MV (2002). Hydraulic and photosynthetic coordination in seasonally dry tropical forest trees. Plant, Cell and Environment 25:1435-1444.
+					]]>
+				</mixed-citation>
+			</ref>
+						<ref id="ref7">
+				<label>7</label>
+				<mixed-citation publication-type="other" xlink:type="simple">
+				<![CDATA[Cai H, Di X, Jin G (2017). Allometric models for leaf area and leaf mass predictions across different growing seasons of elm tree (Ulmus japonica). Journal of Forestry Research 28 (5):975-982 .
+					]]>
+				</mixed-citation>
+			</ref>
+						<ref id="ref8">
+				<label>8</label>
+				<mixed-citation publication-type="other" xlink:type="simple">
+				<![CDATA[Fayolle A, Doucet J-L, Gillet J-F, Bourland N, Lejeune P (2013). Tree allometry in Central Africa: Testing the validity of pantropical multi-species allometric equations for estimating biomass and carbon stocks. Forest Ecology and Management 305:29-37.
+					]]>
+				</mixed-citation>
+			</ref>
+						<ref id="ref9">
+				<label>9</label>
+				<mixed-citation publication-type="other" xlink:type="simple">
+				<![CDATA[Franois T, Pierre C, Jean-Louis D E, Tribo MZ (2006). Perception de la scheresse par la plante. Consquences sur la productivit et sur la qualit des produits rcolts. ESCo Scheresse et agriculture.]]>
+				</mixed-citation>
+			</ref>
+						<ref id="ref10">
+				<label>10</label>
+				<mixed-citation publication-type="other" xlink:type="simple">
+				<![CDATA[Gleason SM, Westoby M, Jansen S, Choat B, Hacke UG, Pratt RB, Bhaskar R, Brodribb TJ, Bucci SJ, Cao K-F, Cochard H, Delzon S, Domec J-C, Fan ZX, Feild TS, Jacobsen AL, Johnson DM, Lens F, Maherali H, Martiınez VJ, Mayr S, McCulloh KA, Mencuccini M, Mitchell PJ, Morri H, Nardini A, Pittermann J, Plavcova L, Schreiber SG, Sperry JS, Wright IJ, Zanne AE (2016). Weak tradeoff between xylem safety and xylem-specific hydraulic efficiency across the worlds woody plant species. New Phytologist 209:123-136.
+					]]>
+				</mixed-citation>
+			</ref>
+						<ref id="ref11">
+				<label>11</label>
+				<mixed-citation publication-type="other" xlink:type="simple">
+				<![CDATA[Hardwick SR, Toumia R, Pfeifer M, Turner EC, Nilus R Ewers RM (2015). The relationship between leaf area index and microclimate in tropical forest and oil palm plantation: Forest disturbance drives changes in microclimate. Agricultural and Forest Meteorology 201:187-195.
+					]]>
+				</mixed-citation>
+			</ref>
+						<ref id="ref12">
+				<label>12</label>
+				<mixed-citation publication-type="other" xlink:type="simple">
+				<![CDATA[Heller R (1985). Abrg de physiologie vgtale. Tome II. Dveloppement (3med.). Masson.]]>
+				</mixed-citation>
+			</ref>
+						<ref id="ref13">
+				<label>13</label>
+				<mixed-citation publication-type="other" xlink:type="simple">
+				<![CDATA[Humphries EC (1966). Leaf growth of white mustard (Sinapis alba) in different environments. Planta 72(3):223-231.
+					]]>
+				</mixed-citation>
+			</ref>
+						<ref id="ref14">
+				<label>14</label>
+				<mixed-citation publication-type="other" xlink:type="simple">
+				<![CDATA[Ketterings QM, Coe R, van Noordwijk M, Ambagau Y, Palm CA (2001). Reducing uncertainty in the use of allometric biomass equations for predicting aboveground tree biomass in mixed secondary forests. Forest Ecology and Management 146:199-209.
+					]]>
+				</mixed-citation>
+			</ref>
+						<ref id="ref15">
+				<label>15</label>
+				<mixed-citation publication-type="other" xlink:type="simple">
+				<![CDATA[Kim K, Wang M-C, Sailesh R, Su-hong L, Xu J.-c, Zomer RJ (2017). Using leaf area index (LAI) to assess vegetation response to drought in Yunnan province of China. Journal of Mountain Science 14(9) :1863-1872.
+					]]>
+				</mixed-citation>
+			</ref>
+						<ref id="ref16">
+				<label>16</label>
+				<mixed-citation publication-type="other" xlink:type="simple">
+				<![CDATA[Lamade E (1997). Mthode rapide de mesure de lindice foliaire du palmier  huile. Plantations, Recherche, Dveloppement 4(6):385-389.]]>
+				</mixed-citation>
+			</ref>
+						<ref id="ref17">
+				<label>17</label>
+				<mixed-citation publication-type="other" xlink:type="simple">
+				<![CDATA[Lambers H, Chapin FS, Pons TL (1998). Photosynthesis, Respiration, and LongDistance transport. Plant Physiological Ecology, pp. 10-153.
+					]]>
+				</mixed-citation>
+			</ref>
+						<ref id="ref18">
+				<label>18</label>
+				<mixed-citation publication-type="other" xlink:type="simple">
+				<![CDATA[Moussa M, Larwanou M (2018). Allometric models for estimating aboveground biomass and carbon in Faidherbia albida and Prosopis africana under agroforestry parklands in drylands of Niger. Journal of Forestry Research 29(6):1703-1717.
+					]]>
+				</mixed-citation>
+			</ref>
+						<ref id="ref19">
+				<label>19</label>
+				<mixed-citation publication-type="other" xlink:type="simple">
+				<![CDATA[Moussa M, Chaibou I, Laminou OM, Banoin M (2017). Effet de lcartement sur la croissance des jeunes plants de Jatropha curcas L. (Euphorbiacae) de quelques provenances au Sahel Niger. Afrique Science 13(1):24-39.]]>
+				</mixed-citation>
+			</ref>
+						<ref id="ref20">
+				<label>20</label>
+				<mixed-citation publication-type="other" xlink:type="simple">
+				<![CDATA[Nemecek-Marshall M, MacDonald RC, Franzen JJ, Wojciechowski C, Fall R (1995). Methanol Emission from Leaves. Enzymatic Detection of Gas-Phase Methanol and Relation of Methanol Fluxes to Stomatal Conductance and Leaf Development. Plant Physiology 108:1359-1368.
+					]]>
+				</mixed-citation>
+			</ref>
+						<ref id="ref21">
+				<label>21</label>
+				<mixed-citation publication-type="other" xlink:type="simple">
+				<![CDATA[Openshaw K (2000). A review of Jatropha curcas: an oil plant of unfulfilled promise.Biomass and Bioenergy 19:1-15.
+					]]>
+				</mixed-citation>
+			</ref>
+						<ref id="ref22">
+				<label>22</label>
+				<mixed-citation publication-type="other" xlink:type="simple">
+				<![CDATA[Oudraogo M (2006). Etude biologique et physiologique du pourghre : Jatropha curcas L. (Euphorbiacae) en vue dune meilleure production de carburant de substitution. Thse de doctorat es-sciences naturelles. Universit Ouaga I.]]>
+				</mixed-citation>
+			</ref>
+						<ref id="ref23">
+				<label>23</label>
+				<mixed-citation publication-type="other" xlink:type="simple">
+				<![CDATA[Packard GC (2013). Is logarithmic transformation necessary in allometry? Biological Journal of the Linnean Society 109:476-486.
+					]]>
+				</mixed-citation>
+			</ref>
+						<ref id="ref24">
+				<label>24</label>
+				<mixed-citation publication-type="other" xlink:type="simple">
+				<![CDATA[Pandey VC, Singh K, Singh JS, Kumar A, Singh B, Singh RP (2012). Jatropha curcas: A potential biofuel plant for sustainable environmental development. Renewable and Sustainable Energy Reviews 16:2870-2883.
+					]]>
+				</mixed-citation>
+			</ref>
+						<ref id="ref25">
+				<label>25</label>
+				<mixed-citation publication-type="other" xlink:type="simple">
+				<![CDATA[Reddy AR, Chaitanya KV, Vivekanandan M (2004). Drought-induced responses of photosynthesis and antioxidant metabolism in higher plants. Journal of Plant Physiology 161:1189-1202.
+					]]>
+				</mixed-citation>
+			</ref>
+						<ref id="ref26">
+				<label>26</label>
+				<mixed-citation publication-type="other" xlink:type="simple">
+				<![CDATA[Sileshi GW (2014). A critical review of forest biomass estimation models, common mistakes and corrective measures. Forest Ecology and Management 329:237-254.
+					]]>
+				</mixed-citation>
+			</ref>
+						<ref id="ref27">
+				<label>27</label>
+				<mixed-citation publication-type="other" xlink:type="simple">
+				<![CDATA[Smith SD, Monson RK, Anderson JE (1997). Plant Processes and Responses to Stress. Physiological Ecology of North American Desert Plants, pp. 45-71.
+					]]>
+				</mixed-citation>
+			</ref>
+						<ref id="ref28">
+				<label>28</label>
+				<mixed-citation publication-type="other" xlink:type="simple">
+				<![CDATA[Tardieu F (2005). Plant tolerance to water deficit: physical limits and possibilities for progress. External Geophysics, Climate and Environment 337:57-67.
+					]]>
+				</mixed-citation>
+			</ref>
+						<ref id="ref29">
+				<label>29</label>
+				<mixed-citation publication-type="other" xlink:type="simple">
+				<![CDATA[Traore M, Nacro HB, Doamba WF, Tabo R, Nikiema A (2015). Effets de doses varies du tourteau de Jatropha curcas sur la productivit du mil (varit HKP) en condition pluviale en Afrique de lOuest. Tropicultura 33(1):1925.]]>
+				</mixed-citation>
+			</ref>
+						<ref id="ref30">
+				<label>30</label>
+				<mixed-citation publication-type="other" xlink:type="simple">
+				<![CDATA[Yao X, Fu B, Lu Y, Sun F, Wang S, Liu M (2013). Comparison of four spatial interpolation methods for estimating soil moisturein a complex terrain catchment. PLoS ONE 8(1):5466.
+					]]>
+				</mixed-citation>
+			</ref>
+						<ref id="ref31">
+				<label>31</label>
+				<mixed-citation publication-type="other" xlink:type="simple">
+				<![CDATA[Zakari AH (2013). Entomofaune associe  Jatropha curcas L. au Niger et valuation de lactivit insecticide de son huile. Thse de Docteur en Sciences Agronomiques et Ingnierie biologique. Universit De Liege - Gembloux Agro Bio-Tech.]]>
+				</mixed-citation>
+			</ref>
+						<ref id="ref32">
+				<label>32</label>
+				<mixed-citation publication-type="other" xlink:type="simple">
+				<![CDATA[Zuur AF, Leno EN, Elphick CS (2010). A protocol for data exploration to avoid common statistic problems. Methods Ecology and Evolution 1:3-14.
+					]]>
+				</mixed-citation>
+			</ref>
+					</ref-list>
+	</back>
+    </article>
